@@ -1,0 +1,1 @@
+If the text has 'a' as greater go to door 1, if e is greater than go to door 2
